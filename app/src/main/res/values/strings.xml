@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="wrong">Wrong:</string>
+    <string name="correct">Correct:</string>
+</resources>
